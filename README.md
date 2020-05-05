@@ -1,7 +1,7 @@
 # android-recyclerview-and-adapters
 Some samples about the RecyclerView, ListView and Adapters using kotlin
 
-<img src="screenshot.png" alt="screenshot" width="280"/> <img src="multiple_screenshot.png" alt="screenshot" width="280"/> <img src="heterogeneous_screenshot.png" alt="screenshot" width="280"/>
+<img src="screenshot.png" alt="screenshot" width="280"/> <img src="multiple_screenshot.png" alt="screenshot" width="280"/> <img src="heterogeneous_screenshot.png" alt="screenshot" width="280"/> <img src="multiple_selecction_screenshot.png" alt="screenshot" width="280"/>
 
 
 ## Heterogeneous recyclerview
