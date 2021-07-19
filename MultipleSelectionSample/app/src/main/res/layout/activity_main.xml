@@ -30,7 +30,7 @@
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"
         android:padding="10dp"
-        android:text="Show selected items"
+        android:text="@string/show_selected_items"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MultipleSelectionSample</string>
+    <string name="show_selected_items">Show selected items</string>
+    <string name="potato">Potato</string>
 </resources>
